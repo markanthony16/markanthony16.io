@@ -1,0 +1,88 @@
+body{
+    background-image: url("../asset/bg.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    background-attachment: fixed;
+}
+
+/*Background Color*/
+.nav_color{
+    background-color: #162739 !important;
+}
+.bg_nav_menu{
+    background-color: #00a841 !important;
+}
+.bg-light-green{
+    background-color: #A1F083;
+}
+.bg-grey{
+    background-color: #8a8a8a;
+}
+.bg-yellow{
+    background-color: #00a841;
+}
+.bg-white{
+    background-color: #162739;
+}
+.div_background_light{
+    background-color: #162739 !important;
+}
+.div_background_dark{
+    background-color: #0a131c !important;
+}
+.div_background_green{
+    background-color: #00a841 !important;
+}
+.footer_background{
+    background-color: #04090d !important;
+}
+
+.nav_outline{
+    border-bottom: 2px solid #00a841;
+}
+.div_outline{
+    border-bottom: 2px solid #00a841;
+    border-top: 2px solid #00a841;
+}
+.footer_outline{
+    border-top: 2px solid #00a841;
+}
+
+/*Text Color*/
+.c-white{
+    color: white !important;
+}
+.c-dark{
+    color: #0a131c !important;
+}
+.c-red{
+    color: red !important;
+}
+.c-light{
+    color: #162739 !important;
+}
+.c-green{
+    color: #00a841 !important;
+}
+
+
+
+
+
+.paddingx-0{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+/*Text Style*/
+.login-title{
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+/*Tab Colour*/
+.nav-pills .nav-item .nav-link.active {
+    color: white !important;
+    background-color: #00a841;
+  }
